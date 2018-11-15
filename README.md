@@ -1,5 +1,6 @@
 # apple-refurbished
 Pull information from Apple's refurbished products on sale and create a per day comparison price sheet.
+This is a personal utility that I have used to review daily price changes on Apple products in the refurbished section of the site.
 
 
 The code is an excel macro that fetches the current day apple refurbished product prices from a set of URLs in the configuration file.

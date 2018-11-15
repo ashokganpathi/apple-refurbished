@@ -24,8 +24,14 @@ If a given product is not available on sale on a given day, the cell is blank an
 
 3. Open the .txt file and add/remove any URLs for products that you're interested in.
 
+![alt text](https://github.com/ashokganpathi/apple-refurbished/blob/master/img/01-apple-deals-urls.png)
+
 4. Open the .xlsm file and click on "Get Deals" button. Once it's completed, it would give a pop-up indicating that the macro has completed running.
 
+![alt text](https://github.com/ashokganpathi/apple-refurbished/blob/master/img/02-run-macro.png)
+
 5. Close the pop-up and the .xlsm file and open the apple-refurbished-info.xlsx file. If you did not download the existing file, it would have created a new file with today's list of products. If you had downloaded the file, it would have appended a new column with today's date and put in the product prices along w/ color coding based on comparison with the last run.
+
+![alt text](https://github.com/ashokganpathi/apple-refurbished/blob/master/img/03-output-sheet.png)
 
 Hope you have fun tweaking or extending the utility!

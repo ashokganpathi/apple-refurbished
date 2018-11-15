@@ -14,3 +14,18 @@ For a given product,
  if the price from today is greater than the previous price, the font color is red.
 
 If a given product is not available on sale on a given day, the cell is blank and no price is recorded.
+
+
+How to use the tool?
+
+1. Download the get-apple-refurbished-info.xlsm, apple-refurbished-info.xlsx [optional], apple-deals-urls.txt onto a folder in your PC.
+
+2. Create a logs folder to ensure that logs are written in the folder without any errors.
+
+3. Open the .txt file and add/remove any URLs for products that you're interested in.
+
+4. Open the .xlsm file and click on "Get Deals" button. Once it's completed, it would give a pop-up indicating that the macro has completed running.
+
+5. Close the pop-up and the .xlsm file and open the apple-refurbished-info.xlsx file. If you did not download the existing file, it would have created a new file with today's list of products. If you had downloaded the file, it would have appended a new column with today's date and put in the product prices along w/ color coding based on comparison with the last run.
+
+Hope you have fun tweaking or extending the utility!

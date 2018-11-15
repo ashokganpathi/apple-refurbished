@@ -16,7 +16,7 @@ For a given product,
 If a given product is not available on sale on a given day, the cell is blank and no price is recorded.
 
 
-How to use the tool?
+**How to use the tool?**
 
 1. Download the get-apple-refurbished-info.xlsm, apple-refurbished-info.xlsx [optional], apple-deals-urls.txt onto a folder in your PC.
 

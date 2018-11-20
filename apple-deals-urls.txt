@@ -1,4 +1,4 @@
-https://www.apple.com/shop/browse/home/specialdeals/iphone
-https://www.apple.com/shop/browse/home/specialdeals/apple_watch
-https://www.apple.com/shop/browse/home/specialdeals/mac
-https://www.apple.com/shop/browse/home/specialdeals/clearance
+https://www.apple.com/shop/refurbished/mac
+https://www.apple.com/shop/refurbished/clearance
+https://www.apple.com/shop/refurbished/iphone
+https://www.apple.com/shop/refurbished/watch
